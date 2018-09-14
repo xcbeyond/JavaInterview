@@ -1,4 +1,4 @@
-package com.xcbeyond.interview.bignumber;
+package com.xcbeyond.interview.algorithms.bignumber;
 
 /**
  * 具体参考java.math.BigInteger类的源码

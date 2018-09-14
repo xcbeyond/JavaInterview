@@ -1,4 +1,4 @@
-package com.xcbeyond.interview.bignumber;
+package com.xcbeyond.interview.algorithms.bignumber;
 
 /**
  * 大数运算：采用数组实现
